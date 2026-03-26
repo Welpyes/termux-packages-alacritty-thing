@@ -5,6 +5,7 @@ TERMUX_PKG_MAINTAINER="Joshua Kahn <tom@termux.dev>"
 TERMUX_PKG_VERSION="0.16.1"
 TERMUX_PKG_SRCURL="git+https://github.com/dsturnbull/alacritty.git"
 TERMUX_PKG_GIT_BRANCH=master
+TERMUX_PKG_REVISION=2
 # TERMUX_PKG_SHA256=2b0b88ea868daf9282a8a77d7dd5cd2f787f3227cd4281bd6a171d811057e096
 TERMUX_PKG_DEPENDS="fontconfig, freetype, libxcursor, libxi, libxrandr"
 TERMUX_PKG_BUILD_DEPENDS="libxcb, libxkbcommon, ncurses"
